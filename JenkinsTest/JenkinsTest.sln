@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTest", "JenkinsTest\JenkinsTest.csproj", "{2C969FE3-5D5F-4B3C-AA65-35B5C8DF5FCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{63B2EDD4-9118-4F0C-82EE-467D006FFDB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2C969FE3-5D5F-4B3C-AA65-35B5C8DF5FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C969FE3-5D5F-4B3C-AA65-35B5C8DF5FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C969FE3-5D5F-4B3C-AA65-35B5C8DF5FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B2EDD4-9118-4F0C-82EE-467D006FFDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2EDD4-9118-4F0C-82EE-467D006FFDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2EDD4-9118-4F0C-82EE-467D006FFDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2EDD4-9118-4F0C-82EE-467D006FFDB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
